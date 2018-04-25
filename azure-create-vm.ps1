@@ -56,8 +56,4 @@ $nsg = New-AzureRmNetworkSecurityGroup -ResourceGroupName $rgName `
         -SecurityRules $nsgRules `
         -Location $location
 
-+
-+
 
-
-                
